@@ -13,7 +13,7 @@ Rizky Maulana Sembiring 211401024
 
 Nomor 1:
 
--Inheritance adalah konsep dalam pemrograman berorientasi objek di mana sebuah kelas dapat mewarisi properti dan metode dari kelas lainnya. Kelas yang mewarisi disebut kelas turunan atau subkelas, sedangkan kelas yang memberikan warisan disebut kelas induk atau superclass.
+- Inheritance adalah konsep dalam pemrograman berorientasi objek di mana sebuah kelas dapat mewarisi properti dan metode dari kelas lainnya. Kelas yang mewarisi disebut kelas turunan atau subkelas, sedangkan kelas yang memberikan warisan disebut kelas induk atau superclass.
 
 - Polymorphism adalah konsep dalam pemrograman berorientasi objek di mana sebuah objek dapat memiliki banyak bentuk atau tipe. Hal ini memungkinkan objek dari kelas yang berbeda untuk digunakan secara serupa.
 

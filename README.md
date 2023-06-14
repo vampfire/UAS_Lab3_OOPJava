@@ -22,3 +22,7 @@ Nomor 1:
 - Eksepsi adalah situasi yang terjadi saat program sedang berjalan yang mengganggu aliran normal program. Eksepsi mewakili kejadian tak terduga atau kesalahan dalam program. Dalam Java, eksepsi diperlakukan sebagai objek dan dapat ditangkap (caught) serta diatasi (handled) dengan menggunakan blok try-catch.
 
 - Thread adalah unit eksekusi dalam sebuah program. Dalam Java, thread memungkinkan untuk menjalankan beberapa bagian kode secara bersamaan. Hal ini memungkinkan program kita untuk melakukan tugas-tugas yang berjalan secara bersamaan dan meningkatkan kinerja aplikasi.
+
+
+
+https://youtu.be/cwt88BwkCrk
